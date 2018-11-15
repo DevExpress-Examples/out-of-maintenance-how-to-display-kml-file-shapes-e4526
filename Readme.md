@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/Wpf_MapControl_KmlFileDataAdapter/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Wpf_MapControl_KmlFileDataAdapter/MainWindow.xaml))**
+<!-- default file list end -->
 # How to display KML file shapes
 
 
