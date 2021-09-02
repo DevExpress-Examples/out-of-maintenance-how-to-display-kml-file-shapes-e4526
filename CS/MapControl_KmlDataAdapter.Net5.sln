@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapControl_KmlDataAdapter", "MapControl_KmlDataAdapter\MapControl_KmlDataAdapter.csproj", "{942351C1-79BE-4F73-89FE-150D1ECC7A61}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapControl_KmlDataAdapter", "MapControl_KmlDataAdapter\MapControl_KmlDataAdapter.Net5.csproj", "{942351C1-79BE-4F73-89FE-150D1ECC7A61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
